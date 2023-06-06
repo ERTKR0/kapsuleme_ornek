@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "örnek6(kapsüleme)/1.0.0": {
+        "runtime": {
+          "örnek6(kapsüleme).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "örnek6(kapsüleme)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

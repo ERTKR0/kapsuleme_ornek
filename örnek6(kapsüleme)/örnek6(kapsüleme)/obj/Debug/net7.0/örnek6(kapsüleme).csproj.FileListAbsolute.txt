@@ -1,0 +1,15 @@
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).csproj.AssemblyReference.cache
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).AssemblyInfoInputs.cache
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).AssemblyInfo.cs
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).csproj.CoreCompileInputs.cache
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/bin/Debug/net7.0/örnek6(kapsüleme)
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/bin/Debug/net7.0/örnek6(kapsüleme).deps.json
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/bin/Debug/net7.0/örnek6(kapsüleme).runtimeconfig.json
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/bin/Debug/net7.0/örnek6(kapsüleme).dll
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/bin/Debug/net7.0/örnek6(kapsüleme).pdb
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).dll
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/refint/örnek6(kapsüleme).dll
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).pdb
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/örnek6(kapsüleme).genruntimeconfig.cache
+/Users/ertackara/Projects/örnek6(kapsüleme)/örnek6(kapsüleme)/obj/Debug/net7.0/ref/örnek6(kapsüleme).dll
